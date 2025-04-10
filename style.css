@@ -1,0 +1,49 @@
+
+*{
+background-color:darksalmon;
+}
+#train{
+    height:300px;
+    width: 300px;
+    margin-left: 42%;}
+    h1{
+        background-color: brown;
+        color:white;
+    }
+
+h1,h2{
+    
+text-align: center;
+}
+/* div.first{
+    height:200px;
+    width: 200px;
+} */
+div{
+    background-color:rgb(221, 0, 255);
+}
+div img{
+    height:300px;
+    width: 300px;
+    margin-left:42%;
+}
+#bus{
+    height:400px;
+    width:300px;
+    margin-left:42%;
+}
+/* div.third{
+    height:200px;
+    width: 200px;
+} */
+#one{
+    height:300px;
+width:400px;
+}
+#two {
+    height:400px;
+    width:300px;
+}
+p{
+    text-align: center;
+}
